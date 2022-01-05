@@ -50,7 +50,7 @@ select sum(salary) from employee_payroll
 group by gender;
 select avg(salary) from employee_payroll
 group by gender;
-select max(salary) from employee_payroll
+select max(salary) from employee_payroll;
 
 
 
